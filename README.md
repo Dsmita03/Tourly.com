@@ -1,3 +1,5 @@
+[JUST front-end DONE]
+
 Welcome to TravelWebsite, your ultimate destination for all your travel needs! Whether you're planning a weekend getaway or a globetrotting adventure,
 TravelWebsite has you covered with a user-friendly interface and comprehensive features to make your travel planning experience seamless.
 
